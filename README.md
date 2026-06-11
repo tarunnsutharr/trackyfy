@@ -1,4 +1,5 @@
-# Trackyfy 🚀 <img src="images/logo.png" width="40" alt="Trackyfy Logo">
+<img width="170" height="176" alt="image" src="https://github.com/user-attachments/assets/514dabcc-f953-4505-8852-aaf6fef17e87" />
+# Trackyfy 🚀 
 
 An intuitive and modern tracking application designed to help users monitor, manage, and analyze their daily activities seamlessly.
 
