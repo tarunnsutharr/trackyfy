@@ -11,6 +11,7 @@ Here is a glimpse of how Trackyfy looks:
 
 ### Main Dashboard
 <!-- Apne image ka sahi naam yahan daalein ya direct drag-and-drop karein -->
+![Uploading image.png…]()
 
 ---
 
