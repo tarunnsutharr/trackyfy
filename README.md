@@ -4,6 +4,7 @@
 An intuitive and modern tracking application designed to help users monitor, manage, and analyze their daily activities seamlessly.
 
 
+![Uploading image.png…]()
 
 
 Here is a glimpse of how Trackyfy looks:
