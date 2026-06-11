@@ -4,16 +4,13 @@ An intuitive and modern tracking application designed to help users monitor, man
 
 ---
 
-## 📸 Screenshots
+<img width="426" height="443" alt="image" src="https://github.com/user-attachments/assets/b8314c9a-39b8-4c2c-9c58-8817252da0cb" />
+
 
 Here is a glimpse of how Trackyfy looks:
 
 ### Main Dashboard
 <!-- Apne image ka sahi naam yahan daalein ya direct drag-and-drop karein -->
-![Trackyfy Dashboard](images/dashboard.png)
-
-### Features Page
-![Trackyfy Features](images/features.png)
 
 ---
 
@@ -46,4 +43,22 @@ This project is built to showcase a clean and interactive user interface for a t
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+Copyright (c) 2026 Tarun Suthar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
