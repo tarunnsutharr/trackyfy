@@ -2,20 +2,12 @@
 
 An intuitive and modern tracking application designed to help users monitor, manage, and analyze their daily activities seamlessly.
 
----
-
-![Uploading Screenshot_20260611_113913.png…]()
 
 
 
 Here is a glimpse of how Trackyfy looks:
 
-### Main Dashboard
-<!-- Apne image ka sahi naam yahan daalein ya direct drag-and-drop karein -->
 
-
-
----
 
 ## ✨ Features
 
@@ -24,14 +16,6 @@ Here is a glimpse of how Trackyfy looks:
 - **Data Analytics:** Beautiful charts and insights to analyze your patterns.
 - **Responsive Design:** Works flawlessly on both desktop and mobile screens.
 
----
-
-## 🛠️ Tech Stack
-
-This project was built using the following technologies:
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Design:** UI/UX focuses on simplicity and ease of use.
 
 ---
 
