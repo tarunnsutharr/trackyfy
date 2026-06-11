@@ -4,7 +4,8 @@ An intuitive and modern tracking application designed to help users monitor, man
 
 ---
 
-<img width="426" height="443" alt="image" src="https://github.com/user-attachments/assets/b8314c9a-39b8-4c2c-9c58-8817252da0cb" />
+![Uploading Screenshot_20260611_113913.png…]()
+
 
 
 Here is a glimpse of how Trackyfy looks:
@@ -13,7 +14,6 @@ Here is a glimpse of how Trackyfy looks:
 <!-- Apne image ka sahi naam yahan daalein ya direct drag-and-drop karein -->
 
 
-![Uploading image.png…]()
 
 ---
 
