@@ -10,6 +10,9 @@ An intuitive and modern tracking application designed to help users monitor, man
  
 Here is a glimpse of how Trackyfy looks:
 
+<img width="1024" height="828" alt="image" src="https://github.com/user-attachments/assets/d3f0ed24-5bb9-49be-84c9-062a67cda265" />
+
+
 ## ✨ Features
 
 - **User-Friendly Interface:** Clean, minimal, and modern design.
