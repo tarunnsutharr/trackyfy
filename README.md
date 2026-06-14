@@ -2,7 +2,6 @@
 
 
 
-
 An intuitive and modern tracking application designed to help users monitor, manage, and analyze their daily activities seamlessly.
 
 ![Uploading Gemini_Generated_Image_7lhjoo7lhjoo7lhj.png…]()
