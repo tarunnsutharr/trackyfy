@@ -1,4 +1,4 @@
-<img width="104" height="100" alt="applogo" src="https://github.com/user-attachments/assets/4f593164-c9af-4af2-811f-4c11c77b6ca1" /># Trackyfy 🚀
+# Trackyfy 🚀
 
 
 
