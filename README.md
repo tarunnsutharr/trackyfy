@@ -1,10 +1,11 @@
-# Trackyfy 🚀
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d9607b3b-0faa-4def-befe-02f5b9f6b37b" /># Trackyfy 🚀
 
 
 
 An intuitive and modern tracking application designed to help users monitor, manage, and analyze their daily activities seamlessly.
 
-![Uploading Gemini_Generated_Image_7lhjoo7lhjoo7lhj.png…]()
+[Uploading image.png…]()
+
 
 
 
