@@ -4,7 +4,8 @@
 An intuitive and modern tracking application designed to help users monitor, manage, and analyze their daily activities seamlessly.
 
 
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d9607b3b-0faa-4def-befe-02f5b9f6b37b" />
+<img width="1000" height="300" ![Uploading image.png…]()
+/>
 
 
 
