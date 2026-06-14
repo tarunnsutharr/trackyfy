@@ -4,8 +4,7 @@
 An intuitive and modern tracking application designed to help users monitor, manage, and analyze their daily activities seamlessly.
 
 
-<img width="1000" height="300" ![Uploading image.png…]()
-/>
+https://share.gemini.google/Wfn3tpvXMIAK
 
 
 
